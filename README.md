@@ -7,7 +7,7 @@ Use excel to predict restaurant tips.
 The dataset in file **Restaurant tips dataset.xlsx** contains tips data for different customers. The following are the features in the dataset:
 
 |sex|	Gender of the customer|
-|-|-|
+|--|--|
 |smoker|	Indicates if the customer is a smoker or not|
 |day|	Day of the restaurant visit|
 |time|	Indicates whether the tip was for lunch or dinner|
