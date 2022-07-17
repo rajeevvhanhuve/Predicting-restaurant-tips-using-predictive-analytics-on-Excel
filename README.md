@@ -1,6 +1,6 @@
 # Business Analytics with Excel: Project 2
 
-### Designing a Sales dashboard in Excel
+### Predicting restaurant tips using predictive analytics 
 
 **DESCRIPTION**
 
