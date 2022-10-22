@@ -1,6 +1,4 @@
-# Business Analytics with Excel: Project 2
-
-### Predicting restaurant tips using predictive analytics 
+## Predicting restaurant tips using predictive analytics 
 
 **DESCRIPTION**
 
